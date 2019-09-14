@@ -564,13 +564,13 @@ Selector有四个基本的方法，最常用的是xpath
 ## Scrapy框架项目实战：
 
 ### 项目一：
-[使用Scrapy框架爬取糗事百科的段子和作者姓名等内容-页面元素爬取](/Scrapy/QiuBai/README.md)
+[使用Scrapy框架爬取糗事百科的段子和作者姓名等内容-页面元素爬取](/Scrapy/QiuBai)
 ### 项目二：
-[使用Scrapy框架爬取招聘网站--赶集网的职位等信息-页面元素爬取](/Scrapy/Ganji/README.md)
+[使用Scrapy框架爬取招聘网站--赶集网的职位等信息-页面元素爬取](/Scrapy/Ganji)
 ### 项目三：
-[使用Scrapy框架爬取腾讯招聘网站的职位和工作信息-json格式数据爬取](/Scrapy/Tencent/README.md)
+[使用Scrapy框架爬取腾讯招聘网站的职位和工作信息-json格式数据爬取](/Scrapy/Tencent)
 ### 项目四：
-[使用Scrapy框架爬取斗鱼的主播高清大图并将图片名另存为主播昵称-手机json格式数据爬取](/Scrapy/Douyu/README.md)
+[使用Scrapy框架爬取斗鱼的主播高清大图并将图片名另存为主播昵称-手机json格式数据爬取](/Scrapy/Douyu)
 
 
 
